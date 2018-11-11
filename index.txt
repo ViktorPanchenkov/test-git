@@ -1,11 +1,4 @@
 
-
-
-
-
-
- test
-
+Hello git!
 
 Hello World!
-Hello git!
